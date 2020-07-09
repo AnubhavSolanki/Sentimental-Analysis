@@ -1,12 +1,13 @@
 # Sentimental-Analysis
+This project is created with Python.
 
-Navigate to the directory where project is located through Command Prompt then use this command
+## Requirement
+ We will be needing Python and some python packages.  
+ For more details check the documentation.docx file ( It is a microsoft word file).
 
-```
-pip install -r requirements.txt
-```
-then simply run the code
-
+## Installation
+Clone the repo into your computer after that just type  
 ```
 python Sentimental_Analysis_Project.py
 ```
+Now, the project will start running. 
