@@ -5,6 +5,8 @@ The dataset which we are using is NLTK corpus.In this their are exactly 10,000 p
 those token we are training and testing the machine 7000 tokens are used for training the machine and 3000 are used for testing.
 After training and testing we are using Tkinter interface through which we can analyse the sentiment of the statement.
 
+## Video Link :
+https://www.linkedin.com/posts/anubhavsolanki_tkinter-machinelearning-pythonprogramming-activity-6687662648236027904-uLF5
  
 ## Requirement
  We will be needing Python and some python packages.  
